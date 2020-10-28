@@ -1,5 +1,5 @@
 const showcase = document.getElementById('showcase') as HTMLIFrameElement;
-const key = 'YOUR KEY HERE';
+const key = 'fc7c19ff605141389f2f35d6ed570fab';
 
 // declare this file is a module
 export {};
